@@ -3,6 +3,8 @@
   padding: 0;
 }
 
+/* Postion relative --> Generally we gieve absolute postion to the wrapper so that every element  in it can be given absolute position */
+
 body {
   background-color: #000;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",

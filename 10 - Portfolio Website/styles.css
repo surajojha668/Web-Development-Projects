@@ -32,11 +32,11 @@ header .logo {
 }
 
 header .logo img {
-  width: 70px;
+  width: 150px;
 }
 
 .logoText {
-  margin-left: -0.8rem;
+  margin-left: -2.4rem;
   font-size: 28px;
 }
 

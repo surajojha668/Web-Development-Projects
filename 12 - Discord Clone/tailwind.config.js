@@ -2,18 +2,12 @@
 module.exports = {
   content: ["*"],
   theme: {
-    extend: {
-      colors:{
-        lightBlue : "#404EED"
-      },
-      fontFamily: {
-        'ggsans': ['ggsans-normal'],
-        
-      },
-      spacing: {
-        '30' : '120px'
-      }
-    },
+    extend: {},
   },
   plugins: [],
+  fontFamily:{
+    Whitney:["Whitney"],
+    Ginto:["Ginto"],
+    ggSans:["ggSans"],
+  },
 }
